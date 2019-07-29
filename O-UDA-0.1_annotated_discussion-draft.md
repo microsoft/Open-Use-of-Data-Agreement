@@ -32,7 +32,7 @@ _Data Provider_ does not represent or warrant that it has any rights whatsoever 
 
 ### General Disclaimer
 
-!!! The _Data_ is provided on an "as is" basis, without warranties or conditions of any kind, either express or implied including, without limitation, any warranties or conditions of title, non-infringement, merchantability or fitness for a particular purpose.
+!!! The _Data_ are provided on an "as is" basis, without warranties or conditions of any kind, either express or implied including, without limitation, any warranties or conditions of title, non-infringement, merchantability or fitness for a particular purpose.
 
 ### Limit on Liability
 
