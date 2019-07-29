@@ -7,5 +7,8 @@
     "commonform-lint": "^3.0.2",
     "json": "^9.0.6",
     "mustache": "^3.0.1"
+  },
+  "scripts": {
+    "build": "make"
   }
 }
