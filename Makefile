@@ -57,3 +57,9 @@ critique: $(FORMS) | $(CRITIQUE) $(JSON)
 
 clean:
 	rm -rf $(BUILD)
+
+docker:
+	docker build -t open-use-of-data-agreement .
+	docker run --name open-use-of-data-agreement open-use-of-data-agreement
+	docker cp open-use-of-data-agreement:/workdir/$(BUILD) .
+	docker rm open-use-of-data-agreement
