@@ -28,7 +28,7 @@ $(BUILD)/%.html: $(BUILD)/%.form.json | $(CFHTML) $(BUILD)
 	$(CFHTML) --html5 --lists --title "$(TITLE)" --edition "$(EDITION)" < $< > $@
 
 $(BUILD)/%.form.json: %.md | $(JSON) $(CFCM) $(BUILD)
-	$(CFCM) parse --only form < $< | json content.0.form > $@
+	$(CFCM) parse --only form < $< | $(JSON) content.0.form > $@
 
 %.pdf: %.docx
 	unoconv $<
