@@ -1,4 +1,4 @@
-# Open Use of Data Agreement v0.1 Annotated-Discussion-DRAFT-20190722
+# Open Use of Data Agreement
 
 This is the Open Use of Data Agreement, Version 0.1 (the **O-UDA**).   Capitalized terms are defined in [Definitions](#definitions).   _Data Provider_ and you agree as follows.
 
