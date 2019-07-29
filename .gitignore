@@ -1,3 +1,2 @@
-# build output
-*.docx
-*.pdf
+node_modules
+build
