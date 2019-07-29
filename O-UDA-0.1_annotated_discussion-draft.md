@@ -36,7 +36,7 @@ _Data Provider_ does not represent or warrant that it has any rights whatsoever 
 
 ### Limit on Liability
 
-!!! Neither _Data Provider_ nor any _Upstream Data Provider_ shall have any liability for any direct, indirect, incidental, special, exemplary, or consequential damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the _Data_ or _Output_, even if advised of the possibility of such damages.
+!!! Neither _Data Provider_ nor _Upstream Data Providers_ shall have any liability for any direct, indirect, incidental, special, exemplary, or consequential damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the _Data_ or _Output_, even if advised of the possibility of such damages.
 
 ## Definitions
 
