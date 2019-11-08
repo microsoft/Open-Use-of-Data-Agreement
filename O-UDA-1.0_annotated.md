@@ -41,7 +41,7 @@ This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA").  Capitalized 
 
     4.1. Data Provider does not represent or warrant that it has any rights whatsoever in the Data.
 
-      **Comment**: We have chosen a broad disclaimer of representations and warranties, which may not be appropriate in commercial contexts. These disclaimers are common in the open data context to encourage possessors of data to share the data without requiring them to make promises about the data. Because the Data Provider makes no claims that they have rights in the data, the Downstream Recipient must ensure that its use of the Data conforms to applicable laws or regulations. A Data Provider should not use the O-UDA for Data that it knows should not be distributed, or data that contains sensitive or private information._
+      **Comment**: _We have chosen a broad disclaimer of representations and warranties, which may not be appropriate in commercial contexts. These disclaimers are common in the open data context to encourage possessors of data to share the data without requiring them to make promises about the data. Because the Data Provider makes no claims that they have rights in the data, the Downstream Recipient must ensure that its use of the Data conforms to applicable laws or regulations. A Data Provider should not use the O-UDA for Data that it knows should not be distributed, or data that contains sensitive or private information._
 
     4.2. THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
