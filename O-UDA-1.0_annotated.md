@@ -1,7 +1,6 @@
-# Open Use of Data Agreement v1.0
-# Pre-Release-DRAFT-20191030
+# Open Use of Data Agreement v1.0, Annotated
 
-This is the Open Use of Data Agreement, Version 0.1 (the "O-UDA").  Capitalized terms are defined in Section 5. Data Provider and you agree as follows.
+This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA").  Capitalized terms are defined in Section 5. Data Provider and you agree as follows.
 
 **Comment**: _The O-UDA is intended for use by a Data Provider that owns (or has sufficient rights from a data owner) to distribute data for unrestricted uses, subject to applicable laws governing the use of datasets of the type distributed. The O-UDA is not intended for a use of Data that may include personal data, or data not owned by a data provider. To be precise, it is not appropriate for data sets that include any data that might include materials subject to privacy laws such as the GDPR or HIPAA, or third party materials subject to copyright laws that have not been licensed for unrestricted use or dedicated to the public domain._
 
@@ -17,7 +16,7 @@ This is the Open Use of Data Agreement, Version 0.1 (the "O-UDA").  Capitalized 
 
     1.3 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
 
-      **Comment**: _This provision clarifies that the O-UDA is not intended to restrict the use, modification, or distribution of any materials within the Data that are in the public domain. Such materials can be used, modified, or distributed without needing to meet the requirements or obligations of this Agreement. Similarly, the O-UDA is not intended to restrict the use, modification distribution of any materials within the Data if any applicable legal exception or limitation (e.g., fair use) would otherwise permit their use, modification, or distribution._
+      **Comment**: _This provision clarifies that the O-UDA is not intended to restrict the use, modification, or distribution of any materials within the Data that are in the public domain. Such materials can be used, modified, or distributed without needing to meet the requirements or obligations of this Agreement. Similarly, the Agreement is not intended to restrict the use, modification distribution of any materials within the Data if any applicable legal exception or limitation (e.g., fair use) would otherwise permit their use, modification, or distribution._
 
 2. **No Restrictions on Use or Output**
 
@@ -25,7 +24,7 @@ This is the Open Use of Data Agreement, Version 0.1 (the "O-UDA").  Capitalized 
 
       2.1.1. the use or modification of Data; or
 
-      2.1.2. the use, modification, or distribution of Outputs.
+      2.2.2. the use, modification, or distribution of Outputs.
 
 
 3. **Redistribution of Data**
