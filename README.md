@@ -1,9 +1,7 @@
 # The Open Use of Data Agreement (O-UDA)
 
 ## Goal
-Sharing data can help address some of society’s biggest challenges and can help individuals and organizations be more innovative, efficient, and productive. We want to make it easier for individuals and organizations that want to share data to do so.  We’re working with companies, academics, and researchers to build better processes and tools. As a first step, we’ve taken a closer look at an open data use scenario with this Open Use of Data Agreement (O-UDA). We hope to gather community input that evolves the agreement for broad use. Our aim is to release a v1 of the O-UDA in Fall 2019. Please provide feedback by October 1, 2019.
-
-For more information on Microsoft’s resources to Removing Barriers to Data Innovation, visit [here](https://news.microsoft.com/datainnovation).
+Sharing data can help address some of society’s biggest challenges and can help individuals and organizations be more innovative, efficient, and productive. The Open Use of Data Agreement (O-UDA) is intended to make it easier for individuals and organizations that want to share data to do so, with minimal requirements for users and no restrictions on use. The O-UDA is complemented by the [Computational Use of Data Agreement (C-UDA)](https://github.com/microsoft/Computational-Use-of-Data-Agreement), an agreement intended for situations where a specific data use scenario is desirable or required.
 
 ## Overview
 
@@ -18,6 +16,8 @@ In short:
 ## Contemplated use case
 
 We envision that this agreement is suitable for situations where the original data provider created a data set, is reasonably certain of its ability to share the data set, and wants to be clear that the Output from any analysis of the data is not restricted.
+
+This agreement also does not restrict the use of any portions of a data set that are in the public domain or that can be used, modified, or distributed for any use permitted by any legal exception or limitation.
 
 With this agreement, Microsoft is not giving legal advice. Please consider your own circumstances and seek your own legal counsel as needed.
 
@@ -41,6 +41,8 @@ This project welcomes contributions and suggestions under [CC0-1.0](https://crea
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+For more information on Microsoft’s resources to Removing Barriers to Data Innovation, visit [here](https://news.microsoft.com/datainnovation/).
 
 ## Legal Notices
 Microsoft and any contributors grant you a license to content in this repository under CC0-1.0, see the [LICENSE](LICENSE) file.
