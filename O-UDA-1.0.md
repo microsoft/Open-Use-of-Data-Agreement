@@ -1,6 +1,6 @@
 # Open Use of Data Agreement v1.0
 
-This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized terms are defined in Section 5. Data Provider and you agree as follows.
+This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
 
 1. **Provision of the Data**
 
