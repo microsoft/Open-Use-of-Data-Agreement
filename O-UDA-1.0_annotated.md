@@ -1,6 +1,6 @@
 # Open Use of Data Agreement v1.0, Annotated
 
-This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA").  Capitalized terms are defined in Section 5. Data Provider and you agree as follows.
+This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA").  Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
 
 **Comment**: _The O-UDA is intended for use by a Data Provider that owns (or has sufficient rights from a data owner) to distribute data for unrestricted uses, subject to applicable laws governing the use of datasets of the type distributed. The O-UDA is not intended for a use of Data that may include personal data, or data not owned by a data provider. To be precise, it is not appropriate for data sets that include any data that might include materials subject to privacy laws such as the GDPR or HIPAA, or third party materials subject to copyright laws that have not been licensed for unrestricted use or dedicated to the public domain._
 
