@@ -24,8 +24,7 @@ This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA").  Capitalized 
 
       2.1.1. the use or modification of Data; or
 
-      2.2.2. the use, modification, or distribution of Outputs.
-
+      2.1.2. the use, modification, or distribution of Outputs.
 
 3. **Redistribution of Data**
 
