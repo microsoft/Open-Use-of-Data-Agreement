@@ -9,7 +9,7 @@ The O-UDA is a simple agreement used to permit anyone to use data under the agre
 In short:
 
 *	Use of data under the agreement carries no obligations.
-*	Redistribution of the Output from use of the data under the agreement—including results of analysis of the data or ML models trained with the data—carries no obligations.
+*	Redistribution of the Results from use of the data under the agreement—including results of analysis of the data or ML models trained with the data—carries no obligations.
 *	Redistribution of data under the agreement—modified or unmodified—carries two minor obligations. First, the redistributor must pass on all attribution information. Second, the redistributor must pass on the warranty and liability disclaimers from the data provider.
 * The redistribution obligations are designed to encourage sharing by limiting the liability of the data provider and ensuring that those downstream can identify where the data came from.
 

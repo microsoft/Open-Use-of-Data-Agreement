@@ -10,13 +10,13 @@ This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized t
 
     1.3 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
 
-2. **No Restrictions on Use or Output**
+2. **No Restrictions on Use or Results**
 
     2.1. The O-UDA does not impose any restriction with respect to:
 
       2.1.1. the use or modification of Data; or
 
-      2.1.2. the use, modification, or distribution of Outputs.
+      2.1.2. the use, modification, or distribution of Results.
 
 3. **Redistribution of Data**
 
@@ -32,16 +32,16 @@ This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized t
 
     4.2. THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
-    4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR OUTPUTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+    4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 5. **Definitions**
 
-    5.1. "Data" means the material you receive under the O-UDA in modified or unmodified form, but not including Output.
+    5.1. "Data" means the material you receive under the O-UDA in modified or unmodified form, but not including Results.
 
     5.2. "Data Provider" means the source from which you receive the Data and with whom you enter into the O-UDA.
 
     5.3. "Downstream Recipient" means any person or persons who receives the Data directly or indirectly from you in accordance with the O-UDA.
 
-    5.4. "Output" means the outcomes or results that you obtain from your use of Data that do not include more than a de minimis portion of the Data on which the use is based.  Output may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more.  Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Output.
+    5.4. "Result" means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based.  Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more.  Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
 
     5.5. "Upstream Data Providers" means the source or sources from which the Data Provider directly or indirectly received, under the terms of the O-UDA, material that is included in the Data.
