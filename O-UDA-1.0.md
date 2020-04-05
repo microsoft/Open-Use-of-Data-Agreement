@@ -8,7 +8,7 @@ This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized t
 
     1.2. Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the O-UDA.
 
-    1.3 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+    1.3. This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
 
 2. **No Restrictions on Use or Results**
 

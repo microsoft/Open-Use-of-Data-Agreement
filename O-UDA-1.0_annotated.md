@@ -14,7 +14,7 @@ This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA").  Capitalized 
 
       **Comment**: _This is a promise by the Data Provider not to sue the user so long as the user complies with O-UDA’s requirements. It doesn't allow a Data Provider to terminate a permitted use of the Data, but it does allow the Data Provider to bring an action to enforce the O-UDA’s terms._
 
-    1.3 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+    1.3. This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
 
       **Comment**: _This provision clarifies that the O-UDA is not intended to restrict the use, modification, or distribution of any materials within the Data that are in the public domain. Such materials can be used, modified, or distributed without needing to meet the requirements or obligations of this Agreement. Similarly, the Agreement is not intended to restrict the use, modification distribution of any materials within the Data if any applicable legal exception or limitation (e.g., fair use) would otherwise permit their use, modification, or distribution._
 
