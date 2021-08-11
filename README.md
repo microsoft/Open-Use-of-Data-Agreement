@@ -1,5 +1,9 @@
 # The Open Use of Data Agreement (O-UDA)
 
+## O-UDA 1.0 is Deprecitated
+
+We are no longer maintaining this repository. We reccomend that users upgrade to [CDLA-Permissive-2.0](https://cdla.dev/permissive-2-0/). That license agreement provides a consice simple permissive data agreement inspired by O-UDA and CDLA-permissive-1.0 as outlined [here](https://www.linuxfoundation.org/press-release/enabling-easier-collaboration-on-open-data-for-ai-and-ml-with-cdla-permissive-20/).
+
 ## Goal
 Sharing data can help address some of society’s biggest challenges and can help individuals and organizations be more innovative, efficient, and productive. The Open Use of Data Agreement (O-UDA) is intended to make it easier for individuals and organizations that want to share data to do so, with minimal requirements for users and no restrictions on use. The O-UDA is complemented by the [Computational Use of Data Agreement (C-UDA)](https://github.com/microsoft/Computational-Use-of-Data-Agreement), an agreement intended for situations where a specific data use scenario is desirable or required.
 
